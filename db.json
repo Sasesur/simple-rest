@@ -1,4 +1,4 @@
-    "articles": [
+    {"articles": [
     {
       "id": 1,
       "article": "SANGLE",
@@ -51,3 +51,4 @@
     
     ]
   
+    }

@@ -13,7 +13,7 @@
         "imageAssetPath": "https://www.stars-music.fr/medias/x-tone/3110-clip-on-tuner-pince-hd-9-128539.jpg",
         "famille": "ACCESSOIRES",
         "descCourte": "mediator",
-        "prixVente": 1
+        "prixVente": 1.0
       },
       {
         "id": 3,
@@ -21,7 +21,7 @@
         "imageAssetPath": "https://www.stars-music.fr/medias/x-tone/3110-clip-on-tuner-pince-hd-9-128539.jpg",
         "famille": "ACCESSOIRES",
         "descCourte": "House Fly Case Uniserselle",
-        "prixVente": 42
+        "prixVente": 42.0
       },
       {
         "id": 4,
@@ -37,7 +37,7 @@
         "imageAssetPath": "https://www.stars-music.fr/medias/gibson/sg-special-2019-ltd-2p90-ht-rw-600-156248.jpg",
         "famille": "GUITARE",
         "descCourte": "Gibson SG",
-        "prixVente": 1266
+        "prixVente": 1266.0
       },
       {
         "id": 6,
@@ -45,7 +45,7 @@
         "imageAssetPath": "https://www.stars-music.fr/medias/gibson/les-paul-classic-2019-hh-ht-rw-hd-149255.jpg",
         "famille": "GUITARE",
         "descCourte": "Lester William Polsfuss Model",
-        "prixVente": 1879
+        "prixVente": 1879.0
       },
       {
         "id": 7,
@@ -53,7 +53,7 @@
         "imageAssetPath": "https://www.stars-music.fr/medias/fender/tele-player-mex-ss-mn-600-146360.png",
         "famille": "GUITARE",
         "descCourte": "Fender Telecaster Deluxe",
-        "prixVente": 2230
+        "prixVente": 2230.0
       }
     
     ]

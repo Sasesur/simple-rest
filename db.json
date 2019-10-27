@@ -12,42 +12,48 @@
         "article": "MEDIATOR",
         "imageAssetPath": "https://www.stars-music.fr/medias/x-tone/3110-clip-on-tuner-pince-hd-9-128539.jpg",
         "famille": "ACCESSOIRES",
-        "descCourte": "mediator"
+        "descCourte": "mediator",
+        "prixVente": 1
       },
       {
         "id": 3,
         "article": "HOUSE",
         "imageAssetPath": "https://www.stars-music.fr/medias/x-tone/3110-clip-on-tuner-pince-hd-9-128539.jpg",
         "famille": "ACCESSOIRES",
-        "descCourte": "House Fly Case Uniserselle"
+        "descCourte": "House Fly Case Uniserselle",
+        "prixVente": 42
       },
       {
         "id": 4,
         "article": "ACCORDEUR",
         "imageAssetPath": "https://www.stars-music.fr/medias/x-tone/3110-clip-on-tuner-pince-hd-9-128539.jpg",
         "famille": "ACCESSOIRES",
-        "descCourte": "accordeur clip"
+        "descCourte": "accordeur clip",
+        "prixVente": 12.25
       },
       {
         "id": 5,
         "article": "SG",
         "imageAssetPath": "https://www.stars-music.fr/medias/gibson/sg-special-2019-ltd-2p90-ht-rw-600-156248.jpg",
         "famille": "GUITARE",
-        "descCourte": "Gibson SG"
+        "descCourte": "Gibson SG",
+        "prixVente": 1266
       },
       {
         "id": 6,
         "article": "LESPAUL",
         "imageAssetPath": "https://www.stars-music.fr/medias/gibson/les-paul-classic-2019-hh-ht-rw-hd-149255.jpg",
         "famille": "GUITARE",
-        "descCourte": "Lester William Polsfuss Model"
+        "descCourte": "Lester William Polsfuss Model",
+        "prixVente": 1879
       },
       {
         "id": 7,
         "article": "TELECASTER",
         "imageAssetPath": "https://www.stars-music.fr/medias/fender/tele-player-mex-ss-mn-600-146360.png",
         "famille": "GUITARE",
-        "descCourte": "Fender Telecaster"
+        "descCourte": "Fender Telecaster",
+        "prixVente": 2230
       }
     
     ]
